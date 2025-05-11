@@ -3,8 +3,8 @@
 <h2>👨‍💻My Different  Projects:</h2>
 
 - <b>C# Projrcts </b>
-  - [Emergency Response Simulator]()
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
+  - [Emergency Response Simulator](https://github.com/RichoAye/Emergency-Response-Simulator.git)
+- <b>Full Stack Web  (html,css and javascript)</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>PowerShell</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
