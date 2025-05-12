@@ -10,7 +10,7 @@
   - [Student Registration System](https://github.com/RichoAye/Registration-System.git)
   - [Patient Management System](https://github.com/RichoAye/Patient-Management-System.git) 
       
-- <b>Python</b>
+- <b>Python project </b>
 
   -[Hotel RoomBooking Manager](https://github.com/RichoAye/Hotel-Room-Booking-Manager.git)
   
