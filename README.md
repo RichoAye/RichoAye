@@ -26,8 +26,6 @@ Here are some of the skills I have experience with:
 - **React**
 
 
-<h2> 🤳 Connect with me:</h2>
-
 ## Contact Information
 
 If you need to contact me, you can reach out through any of the following methods:
