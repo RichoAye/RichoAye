@@ -7,7 +7,7 @@
 - <b> Website designs  (html,css and javascript)</b>
   - [Bank system](https://github.com/RichoAye/Bank-System.git) 
   - [Online Ordering System](https://github.com/RichoAye/Online-Ordering-system.git)
-  - [Student Registration System]()
+  - [Student Registration System](https://github.com/RichoAye/Registration-System.git)
   - [Patient Management System]() 
       
 
