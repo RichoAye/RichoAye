@@ -1,4 +1,13 @@
-<h1>Hi, I'm Rahel! <br/>
+# About Me
+
+Hello! My name is **Rahel Mekonen**, and I am currently a **third-year Information Systems student** at **Debre Berhan University**. I am passionate about **coding** and **web design**, constantly striving to improve my skills and stay up-to-date with the latest technologies.
+
+I enjoy solving complex problems through programming and creating user-friendly, visually appealing websites. Whether it's building interactive web applications with **React** or designing smooth and responsive user interfaces, I love bringing ideas to life.
+
+I am always eager to learn more about software development, database management, and UI/UX design, and I am actively exploring the integration of **AI** and **machine learning** in modern applications.
+
+Feel free to check out my work, and don't hesitate to reach out for collaborations!
+
 
 <h2>👨‍💻My Simple  Projects:</h2>
 
