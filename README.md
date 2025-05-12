@@ -14,12 +14,17 @@
   - [Hotel RoomBooking Manager](https://github.com/RichoAye/Hotel-Room-Booking-Manager.git)
   -[Calender viewer](https://github.com/RichoAye/Calendar-Viewer-.git)
 
-<b>My Skills also;</b>
-  -java
-  -c++
-  -Database(sql,Nosql)
-  -Graphics Design
-  -php,React
+## My Skills
+
+Here are some of the skills I have experience with:
+
+- **Java**
+- **C++**
+- **Database** (SQL, NoSQL)
+- **Graphics Design**
+- **PHP**
+- **React**
+
 
 <h2> 🤳 Connect with me:</h2>
 
