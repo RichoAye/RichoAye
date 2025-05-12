@@ -14,7 +14,7 @@
   - [Hotel RoomBooking Manager](https://github.com/RichoAye/Hotel-Room-Booking-Manager.git)
   -[Calender viewer](https://github.com/RichoAye/Calendar-Viewer-.git)
 
--My Skills also;
+<b>My Skills also;</b>
   -java
   -c++
   -Database(sql,Nosql)
