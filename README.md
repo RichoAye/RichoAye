@@ -29,8 +29,8 @@ Feel free to check out my work, and don't hesitate to reach out for collaboratio
   -[pharmacy managment system](https://github.com/RichoAye/Pharmacy-management-system-u.git)
 
   -<b>data structure and algorithm with c++<b>
-  -[Bookstore Management System]
-  -(https://github.com/RichoAye/algorithm-project.git)
+  
+  -[Bookstore Management System](https://github.com/RichoAye/algorithm-project.git)
 
 ## My Skills
 
@@ -40,7 +40,9 @@ Here are some of the skills I have experience with:
 - **C++**
 - **Database** (SQL, NoSQL)
 - **Graphics Design**
+  
 -**c#**
+  
 -**html,css,javascript)**
 
 
