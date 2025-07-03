@@ -18,7 +18,7 @@ Feel free to check out my work, and don't hesitate to reach out for collaboratio
   - [Online Ordering System](https://github.com/RichoAye/Online-Ordering-system.git)
   - [Student Registration System](https://github.com/RichoAye/Registration-System.git)
   - [Patient Management System](https://github.com/RichoAye/Patient-Management-System.git) 
-      
+  -[Grand luxe hotel website](https://github.com/RichoAye/Grand-luxe-hotel-website.git)
 - <b>Python project </b>
 
   -[Hotel RoomBooking Manager](https://github.com/RichoAye/Hotel-Room-Booking-Manager.git)
@@ -28,7 +28,8 @@ Feel free to check out my work, and don't hesitate to reach out for collaboratio
   -[pharmacy managment system](https://github.com/RichoAye/Pharmacy-management-system-u.git)
 
   -<b>data structure and algorithm with c++<b>
-  -[Bookstore Management System](https://github.com/RichoAye/algorithm-project.git)
+  -[Bookstore Management System]
+  -(https://github.com/RichoAye/algorithm-project.git)
 
 ## My Skills
 
