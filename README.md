@@ -27,6 +27,9 @@ Feel free to check out my work, and don't hesitate to reach out for collaboratio
   
   -[pharmacy managment system](https://github.com/RichoAye/Pharmacy-management-system-u.git)
 
+  -<b>data structure and algorithm with c++<b>
+  -
+
 ## My Skills
 
 Here are some of the skills I have experience with:
